@@ -1,0 +1,23 @@
+OpenBGA Exchange
+https://github.com/openbga/exchange
+
+Copyright (C) 2026 BGASoft Inc. and OpenBGA contributors.
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License, version 3 only
+(AGPL-3.0-only), as published by the Free Software Foundation. See LICENSE.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+Trademarks
+
+OpenBGA and the OpenBGA product names and logos are trademarks of BGASoft Inc.
+The licence does not grant permission to use them (AGPL-3.0 section 7(e)),
+except as needed to describe the origin of the software.
+
+Third-party material
+
+Third-party material included in this repository retains its own copyright and
+licence terms.
