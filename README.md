@@ -5,8 +5,6 @@
 [Presentation website](https://openbga.github.io/exchange/) ·
 [OpenBGA Tox](https://github.com/openbga/tox)
 
-OpenBGA Exchange is an open-source project of BGASoft Inc.
-
 **Coming soon.** The first public source release is in preparation. Star or watch
 this repository to be notified when it lands.
 
@@ -42,6 +40,14 @@ OpenBGA Exchange is a sibling of [OpenBGA Tox](https://github.com/openbga/tox)
 ([website](https://openbga.github.io/tox/)), a free, open-source LIS/LIMS for small
 US clinical toxicology laboratories. The two are independent: OpenBGA Exchange connects any LIS, LIMS or application that
 speaks the supported interfaces.
+
+## Project and support
+
+OpenBGA Exchange is an open-source project of [BGASoft](https://bgasoft.com), a laboratory software company, and part of [OpenBGA](https://github.com/openbga).
+
+**Community use.** The software is free under the AGPL-3.0-only licence and is provided as is. The project does not include a support commitment: issues and pull requests are welcome and are answered on a best-effort basis.
+
+**Enterprise support.** BGASoft offers paid support and services for organizations that run this software. To ask about them, contact BGASoft through [bgasoft.com](https://bgasoft.com/services/open-source-support/). Please do not use GitHub issues for support requests of that kind.
 
 ## License and development disclaimer
 

@@ -395,6 +395,24 @@ thead th {
   padding-left: 22px;
   border-left: 3px solid var(--accent);
 }
+.support {
+  margin-top: 44px;
+  padding-top: 36px;
+  border-top: 1px solid var(--line);
+}
+.support h3 {
+  font-size: 17px;
+  font-weight: 650;
+}
+.support > p {
+  margin-top: 10px;
+  font-size: 15px;
+  color: var(--muted);
+  max-width: 80ch;
+}
+.support strong {
+  color: var(--ink);
+}
 .closing {
   display: flex;
   flex-wrap: wrap;
