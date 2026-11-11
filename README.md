@@ -1,12 +1,16 @@
-# Vibe Lab Exchange (VLX): free, open-source interface engine for laboratories
+<img src="website/logo.svg" alt="OpenBGA Exchange" height="48">
 
-[Presentation website](https://gabalint.github.io/vibe-lab-exchange/) ·
-[Vibe Toxicology LIS](https://github.com/gabalint/vibe-tox)
+# OpenBGA Exchange: free, open-source interface engine for laboratories
+
+[Presentation website](https://openbga.github.io/exchange/) ·
+[OpenBGA Tox](https://github.com/openbga/tox)
+
+OpenBGA Exchange is an open-source project of BGASoft Inc.
 
 **Coming soon.** The first public source release is in preparation. Star or watch
 this repository to be notified when it lands.
 
-Vibe Lab Exchange is a free, open-source interface engine for clinical
+OpenBGA Exchange is a free, open-source interface engine for clinical
 laboratories: the middleware that connects laboratory instruments, LIS/LIMS,
 EHRs and other applications. It receives results from analyzers, routes HL7
 messages, imports and exports files, and keeps a durable record of every message
@@ -34,14 +38,14 @@ Planned for the first releases; details may change before publication.
 
 ## Related project
 
-Vibe Lab Exchange is a sibling of [Vibe Toxicology LIS](https://github.com/gabalint/vibe-tox),
-a free, open-source LIS/LIMS for small US clinical toxicology laboratories. The two
-are independent: Vibe Lab Exchange connects any LIS, LIMS or application that
+OpenBGA Exchange is a sibling of [OpenBGA Tox](https://github.com/openbga/tox)
+([website](https://openbga.github.io/tox/)), a free, open-source LIS/LIMS for small
+US clinical toxicology laboratories. The two are independent: OpenBGA Exchange connects any LIS, LIMS or application that
 speaks the supported interfaces.
 
 ## License and development disclaimer
 
-Copyright 2026 Vibe Lab Exchange contributors. The project's own code,
+Copyright (C) 2026 BGASoft Inc. and OpenBGA contributors. The project's own code,
 documentation, synthetic fixtures, website and presentation assets are licensed
 under the [GNU Affero General Public License, version 3 only (AGPL-3.0-only)](LICENSE),
 unless otherwise identified. Third-party material retains its own terms. Use,
@@ -49,6 +53,10 @@ modification and redistribution, including commercial sale, are permitted.
 Distributors, and operators who offer a modified version over a network, must
 preserve the AGPL rights and provide the corresponding source as
 the license requires.
+
+OpenBGA and the OpenBGA product names and logos are trademarks of BGASoft Inc.
+The licence does not grant permission to use them (AGPL-3.0 section 7(e)),
+except as needed to describe the origin of the software. See [NOTICE](NOTICE).
 
 **This project is vibe coded:** developed with substantial AI assistance and
 reasonable effort in research, planning, analysis, review and testing. That effort
