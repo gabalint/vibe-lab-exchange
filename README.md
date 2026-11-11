@@ -43,16 +43,17 @@ speaks the supported interfaces.
 
 Copyright 2026 Vibe Lab Exchange contributors. The project's own code,
 documentation, synthetic fixtures, website and presentation assets are licensed
-under the [GNU General Public License, version 3 only (GPL-3.0-only)](LICENSE),
+under the [GNU Affero General Public License, version 3 only (AGPL-3.0-only)](LICENSE),
 unless otherwise identified. Third-party material retains its own terms. Use,
 modification and redistribution, including commercial sale, are permitted.
-Distributors must preserve the GPL rights and provide the corresponding source as
+Distributors, and operators who offer a modified version over a network, must
+preserve the AGPL rights and provide the corresponding source as
 the license requires.
 
 **This project is vibe coded:** developed with substantial AI assistance and
 reasonable effort in research, planning, analysis, review and testing. That effort
 does not guarantee correctness, security, regulatory compliance or fitness for
 clinical use. The work is provided **as is**, with the warranty disclaimers and
-liability limitations in GPLv3 sections 15–17, subject to applicable law and
+liability limitations in AGPLv3 sections 15–17, subject to applicable law and
 written agreements. It is built and tested on synthetic data and is not
 clinically validated.
