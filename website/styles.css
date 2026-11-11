@@ -69,9 +69,8 @@ section[id] {
   color: var(--accent);
   flex-shrink: 0;
 }
-.wordmark-suffix {
-  font-weight: 400;
-  color: var(--muted);
+.wordmark-product {
+  color: var(--accent);
 }
 nav {
   display: flex;
